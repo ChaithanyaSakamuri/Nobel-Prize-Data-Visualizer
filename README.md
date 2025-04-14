@@ -1,6 +1,6 @@
 Nobel Prize Data Analyzer 🏆
 
-![nobelpic](https://github.com/user-attachments/assets/418bcfa5-4dd3-497b-bcba-4adad7f47ce3)
+[nobelpic](https://github.com/user-attachments/assets/418bcfa5-4dd3-497b-bcba-4adad7f47ce3)
 
 
 A Python-based GUI application for analyzing Nobel Prize laureates data with interactive visualizations and search capabilities.
