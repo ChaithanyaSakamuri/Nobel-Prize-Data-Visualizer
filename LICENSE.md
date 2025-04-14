@@ -1,5 +1,7 @@
 MIT License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Copyright (c) [2025] [Chaithanya Sudheer Sakamuri]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
