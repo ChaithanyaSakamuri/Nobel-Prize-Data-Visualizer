@@ -1,4 +1,4 @@
-Step-by-Step Guide to Install Python
+🚀 Step-by-Step Guide to Install Python
 
 Install Python on Your System
 
@@ -34,4 +34,4 @@ Verify Installation:
 
 Documentation: Include a README.md explaining how to run project.
 
-This guide ensures your Python environment is set up correctly! 🚀
+This guide ensures your Python environment is set up correctly!
