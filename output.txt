@@ -1,0 +1,9 @@
+// how to print output example 
+Enter Laureate Name: Ronald Ross
+Search Laureate
+Select Plot:
+Proportion of USA-born Winners
+Age Of Winners Over Time
+Top 10 Countries
+Country Distribution(piechart)
+Show Plot
